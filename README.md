@@ -3,7 +3,7 @@
 
 <p align="center">
   🌱 Currently deepening my skills in <b>Linux, Networking & Docker</b><br/>
-  🎓 Completing a Digital Development Diploma at <b>ISTA Mediouna</b><br/>
+  🎓 Completing a Digital Development Diploma <br/>
   💼 Junior Full-Stack Developer building real-world apps with the MERN & PHP/Laravel stacks
 </p>
 
@@ -59,11 +59,6 @@ Built during my internship at MRT ECI SOLUTION SARL using PHP, Laravel, React.js
 
 ---
 
-### 🌐 Languages
-🇲🇦 Arabic (Native) &nbsp;|&nbsp; 🇬🇧 English (B2) &nbsp;|&nbsp; 🇫🇷 French (A2)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -75,6 +70,6 @@ Built during my internship at MRT ECI SOLUTION SARL using PHP, Laravel, React.js
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ayoubchaigari355@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ayoubchaigari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
