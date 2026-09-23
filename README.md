@@ -64,12 +64,9 @@ Built during my internship at MRT ECI SOLUTION SARL using PHP, Laravel, React.js
 
 ---
 
-### 📊 GitHub Stats
+📈 GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AYOUB-CHAIGARI&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUB-CHAIGARI&layout=compact&theme=radical"/>
-</p>
+<P>I use GitHub to document my learning journey, build practical projects, and improve my development workflow.</P>
 
 ---
 
