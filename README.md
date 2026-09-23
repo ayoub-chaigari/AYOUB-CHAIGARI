@@ -25,7 +25,12 @@
 ---
 
 ### 🚀 About Me
-I'm a full-stack developer with hands-on experience across both the **PHP/Laravel** ecosystem and the **MERN** stack. I enjoy building complete, production-style applications — from database design to polished front-end UI — and I'm currently expanding into systems/infrastructure skills (Linux, Networking, Docker) to round out my full-stack + DevOps foundation.
+
+🎓 Graduated in Digital Development – Web Full Stack
+💻 Interested in Web Development & Backend Development
+🧩 Building applications with PHP, Laravel, JavaScript and MySQL
+🐧 Currently learning Linux & Networking
+🐳 Exploring Docker and DevOps fundamental
 
 ---
 
@@ -62,8 +67,8 @@ Built during my internship at MRT ECI SOLUTION SARL using PHP, Laravel, React.js
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AYOUB-CHAIGARI&show_icons=true&theme=radical"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYOUB-CHAIGARI&layout=compact&theme=radical"/>
 </p>
 
 ---
